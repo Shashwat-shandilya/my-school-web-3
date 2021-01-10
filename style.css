@@ -1,0 +1,48 @@
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+h1{
+    color: orange;
+}
+
+h2{
+    color: crimson;
+}
+.travel_maindiv{
+    border: 1px solid grey;
+    margin-bottom: 25px;
+    margin-left: 0;
+    margin-right: 1.625rem;
+    padding-left: 1.625rem;
+    padding-right: 1.625rem;
+    float: left;
+}
+.travel_maindiv img{
+    width: 75%;
+}
+.movie_head{
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    padding: 6px 20px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+p{
+    text-align: center;
+}
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
